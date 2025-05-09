@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "miniprojeo7_bulletjornal",
+    "slug": "snack-ec43da8e-d1cc-4ccf-9dc8-cf7069172f84",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "miniProjeto7 - Bullet Jornal"
+  }
+}
